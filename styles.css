@@ -8,11 +8,4 @@ pre code {
   display: block;
   padding: 20px;
 }
-51 require 'sass/importers'
-52 require 'sass/shared'
-53 require 'sass/media'
-54 require 'sass/supports'
-55
-56 Encoding.default_external = Encoding.find('utf-8')
-57
-58 module Sass
+
